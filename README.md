@@ -28,5 +28,3 @@ A complete **user authentication application** built with **Flutter** and **Fire
 - Enhance **UI/UX** with animations and themes  
 - Add **Firebase Firestore** integration to store user details  
 
-## Screenshots
-(Add screenshots of Login, Registration, Reset Password, and Welcome Page here)
